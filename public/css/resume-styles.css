@@ -19,6 +19,14 @@ body {
         margin: 20px;
         width: 90%;
     }
+
+     .summary, .skills, .experience, .education {
+        margin: 10px 0 20px 0;
+        padding: 0;
+        
+        width: 100%;
+        
+    }
 }
 
 .container {
